@@ -9,6 +9,7 @@ npm i --save-dev @types/react-beautiful-dnd
 
 https://www.npmjs.com/package/react-beautiful-dnd
 https://github.com/atlassian/react-beautiful-dnd/blob/master/docs/about/installation.md
+https://github.com/atlassian/react-beautiful-dnd/blob/HEAD/docs/api/droppable.md
 
 ## react-beautiful-dnd 테스트해 보기
 
