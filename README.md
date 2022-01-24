@@ -32,3 +32,10 @@ https://codesandbox.io/s/k260nyxq9v
 
 - isUsingPlaceholder: boolean  
   placeholder가 사용되고 있는지 여부
+
+## Code Challenge
+
+1. save task state in local storage
+2. delete tasks (dropping into a bin icon)
+3. create a new board
+4. reorder boards
